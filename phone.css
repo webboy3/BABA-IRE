@@ -1,0 +1,131 @@
+.iXSAKl {
+    text-decoration: none;
+    display: flex;
+    position: fixed;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 40px;
+    font-weight: 400;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    z-index: 1;
+    margin-top: 0px;
+    background-image: linear-gradient(to right, rgb(35, 21, 68), rgb(119, 69, 122), rgb(173, 128, 103), rgb(182, 61, 153), rgb(49, 75, 173), rgb(68, 161, 223), rgb(56, 62, 163), rgb(48, 36, 73)); 
+}
+.navbar{
+    margin-top: 40px;
+    background-image: linear-gradient(to right, rgb(17,29,53), rgb(17,29,53));
+}
+
+.chaLIY {
+    padding-top: 50px;
+}
+.iXKGHe {
+    min-height: 20rem;
+    max-width: 35rem;
+    background-image: -webkit-image-set(url(./home-wallet-shapes-bg@2x.png) 1x, url() 2x);
+    background-repeat: no-repeat;
+}
+
+/* First Large Square */
+.eZpwdT {
+    padding-left: 1rem;
+}
+.iXKGHe {
+   
+    background-image: -webkit-image-set(url(./home-wallet-shapes-bg@2x.png) 1x, url() 2x);
+    background-repeat: no-repeat;
+    
+}
+/*  */
+/* Fourth square  */
+.TDzz {
+    align-self: flex-start;
+    color: orange;
+    display: inline-flex;
+    padding: 1rem;
+}
+
+.chaLI {
+    color: rgb(115, 73, 242);
+    padding-top: 150px;
+    padding-bottom: 70px;
+    
+}
+
+.eZpwd {
+    padding-left: 1rem;
+    
+}
+.iX {
+    border-radius: 1.25rem; 
+    display: grid;
+    background-color: rgb(244,250,252);
+    background-image: -webkit-image-set(url(./home-explorer-shapes-bg.png) 1x, url() 2x);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 3.75rem auto;
+    max-width: 80rem;
+}
+/*  */
+/* footer */
+#footer{
+    padding-left: 2em;
+    height: 200vh;
+}
+
+.biGsNx {
+ flex-direction: row;
+}
+@media (max-width: 767px){
+    .gcevVV {
+        margin-bottom: 40px;
+        margin-right: 5px;
+        width: 50%;
+    }
+}
+.gcevVV {
+    font-weight: 900;
+    font-size: large;
+    color: rgb(143, 143, 143);
+    flex: 1 1 auto;
+    line-height: 2.5rem;
+    margin-left: -1em;
+    margin-top: 1em;
+}
+/*  */
+/* Second List item  */
+.biGsNx {
+    text-decoration: none;
+    display: flex;
+    height: 3rem;
+    width: 11.25rem;
+    transition: all 0.5s ease 0s;
+}
+
+.gcevV {
+    font-weight: 900;
+    font-size: large;
+    color: rgb(143, 143, 143);
+    flex: 1 1 auto;
+    line-height: 2.5rem;
+    margin-left: 0em;
+    margin-top: -1em;
+}
+/*  */
+.spinning{
+    position: fixed;
+    bottom: 50px;
+    cursor: pointer;
+    margin-left: 20rem;
+}
+.spinning:hover{ 
+    transition: 2s;
+    background-color: rgb(0, 0, 0);
+    width: 11px;
+}
+
+
